@@ -1,4 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=F7EFE9&height=300&section=header&text=Heejin%20Choi&fontSize=80)
+
 ## Hi there 👋
+
+
 
 <!--
 **hazel-10/hazel-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
