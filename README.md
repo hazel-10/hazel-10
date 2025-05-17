@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=F7EFE9&height=300&section=header&text=Heejin%20Choi&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=F7EFE9&height=300&section=header&text=Heejin%20Choi&fontSize=70)
 
 ## Hi there 👋
 
