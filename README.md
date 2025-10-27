@@ -29,6 +29,49 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
           </div>
     </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ## 📜 Certifications (자격증) </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;">
+     <h2>📜 Certifications (자격증)</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">자격증명</th>
+      <th align="left">발급 기관</th>
+      <th align="center">취득일</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>SQL개발자(SQLD자격)</td>
+      <td>한국데이터베이스진흥센터</td>
+      <td align="center">2025. 06.</td>
+    </tr>
+    <tr>
+      <td>전산회계2급(국가공인)</td>
+      <td>한국세무사회</td>
+      <td align="center">2022. 04.</td>
+    </tr>
+    <tr>
+      <td>컴퓨터활용능력 2급</td>
+      <td>대한상공회의소</td>
+      <td align="center">2021. 05.</td>
+    </tr>
+    <tr>
+      <td>정보처리산업기사</td>
+      <td>한국산업인력공단</td>
+      <td align="center">2016. 05.</td>
+    </tr>
+    <tr>
+      <td>워드프로세서 1급</td>
+      <td>대한상공회의소</td>
+      <td align="center">2010. 03.</td>
+    </tr>
+  </tbody>
+</table>
+          </div>
+    </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=hazel-10&bg_color=180,000000,&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazel-10&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
