@@ -3,7 +3,7 @@
 
 ## Hi there 👋
 
-<h4 align="left">Connect with me: heejin951010@gmail.com</h4>
+<h4 align="left">Connect with me: hee.951010.jin@gmail.com</h4>
 <p align="left">
 </p>
 
